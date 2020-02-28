@@ -1,0 +1,3 @@
+-Ouvrez un terminal et placez vous à la racine du dossier du programme (utilisez la commande "cd")
+-Compilation: gcc *.c -o shing_shang
+-Exécution: ./shing_shang
